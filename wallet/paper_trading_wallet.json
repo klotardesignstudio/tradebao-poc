@@ -3,15 +3,15 @@
     "positions": [
         {
             "token": "BIOUSDT",
-            "preco_compra": 0.1682,
-            "quantidade": 594.5303210463734,
-            "peak_price": 0.1682
+            "preco_compra": 0.1617,
+            "quantidade": 618.4291898577612,
+            "peak_price": 0.1617
         },
         {
             "token": "REDUSDT",
-            "preco_compra": 0.671,
-            "quantidade": 149.03129657228018,
-            "peak_price": 0.671
+            "preco_compra": 0.6636,
+            "quantidade": 150.69318866787222,
+            "peak_price": 0.6636
         }
     ]
 }
